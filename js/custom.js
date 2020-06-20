@@ -54,6 +54,6 @@ jQuery(function($) {
 
 function download(){
     console.log('hi');
-    window.open('my-resume/images/Karan_Angular_Developer.pdf', '_blank');
+    window.open('/images/Karan_Angular_Developer.pdf', '_blank');
 
 }
